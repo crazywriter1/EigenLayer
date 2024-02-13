@@ -2,6 +2,6 @@
 "name": "PeerToDev",
 "website": "peertodev.com",
 "description": "The Peer To Dev team is a multifunctional organization that contributes to all projects related to Crypto.",
-"logo": "logo.png",
+"logo": 'logo.png',
 "twitter": "https://x.com/mjolnirisback"
 }
